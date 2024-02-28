@@ -1,0 +1,1 @@
+console.log(prompt("Hi this our firtst git hub push"));
